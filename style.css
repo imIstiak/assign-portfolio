@@ -1,0 +1,12 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.top-flex-section{
+    display: flex;
+    margin-bottom: 140px;
+}
+
+.orange-colour{
+    color: orange;
+}
